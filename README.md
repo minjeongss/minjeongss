@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#B8860B&height=200&section=header&text=Hi%20there!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=_#DEB887&height=200&section=header&text=Hi%20there!&fontSize=90)
 
 My name is Minjeong Kim! 😎
 
