@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm minjeong with a passion for Computer Science Engineering 😊
+I'm Minjeong Kim with a passion for Computer Science Engineering 😊
 <br><br>
 If you want to contact me, leave a meassage!
 <!--
