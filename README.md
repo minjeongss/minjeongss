@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm minjeong with a passion for Computer Science Engineering 😊
 <!--
 **minjeongss/minjeongss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
