@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm minjeong with a passion for Computer Science Engineering ✨
-<br>
+I'm minjeong with a passion for Computer Science Engineering 😊
+<br><br>
 If you want to contact me, leave a meassage!
 <!--
 **minjeongss/minjeongss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
