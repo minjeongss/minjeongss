@@ -5,7 +5,7 @@
 
 💫 Skills
 > C++
-  > JS
-    > HTML
-      > CSS
+   JS
+     HTML
+       CSS
 
