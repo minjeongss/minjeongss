@@ -1,11 +1,11 @@
 ## Hi there! 👋🏻
 
 🌱 Interest
-+ Computer Science Engineering.
+> Computer Science Engineering.
 
 💫 Skills
 > C++
-> JS
-> HTML
-> CSS
+> >JS
+> >HTML
+> >CSS
 
