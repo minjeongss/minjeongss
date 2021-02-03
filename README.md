@@ -6,5 +6,4 @@ My name is Minjeong Kim! 😎
 
 💫 Skills: C++ / JS / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeongss)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongss&layout=compact)](https://github.com/minjeongss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
