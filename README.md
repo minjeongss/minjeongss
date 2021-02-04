@@ -1,7 +1,7 @@
 ## Hi there! 👋🏻
 
 🌱 Interest
-> Computer Science Engineering.
+> Computer Science Engineering
 
 💫 Skills
 > C++
