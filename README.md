@@ -1,9 +1,9 @@
-## Hi there! 👋🏻
+# Hi there! 👋🏻
 
-🌱 Interest
+### 🌱 Interest
 > Computer Science Engineering
 
-💫 Skills
+### 💫 Skills
 > C++
    / JS
      / HTML
