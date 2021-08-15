@@ -1,11 +1,14 @@
 # Hi there! 👋🏻
 
-### 🌱 Interest
+### 🚀 Major
 > Computer Science Engineering
 
+### 🌱 Interest
+> **Front-end**
+
 ### 💫 Skills
-> C++
-   / JS
-     / HTML
-       / CSS
+> `C++`                 👉🏻 (2020~) <br>
+> `Phython`           👉🏻 (2021~) <br>
+> `HTML` / `CSS` / `JS`   👉🏻 (2020~) <br>
+> `Kotlin`            👉🏻 (2021~)
 
