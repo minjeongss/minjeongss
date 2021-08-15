@@ -1,16 +1,22 @@
 <div align="center">
-  
+![header](https://capsule-render.vercel.app/api?type=soft&color=_#A7CC7B&section=header&text=Min Jeong&fontSize=70&animation=twinkling)
+
 ## Hi there! 👋🏻
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2337B5DD&title_bg=%23FBFBFB&icon=protocols-dot-io.svg&icon_color=%237E7B7B&title=hits&edge_flat=false)](https://github.com/minjeongss)
   
 ### 🚀 Major
 Computer Science Engineering
 
-### 💫 Skills
-`C++`                 👉🏻 (2020~) <br>
-`HTML` / `CSS` / `JS`   👉🏻 (2020~) <br>
-`Phython`           👉🏻 (2021~) <br>
-`Kotlin`            👉🏻 (2021~)
+### 🔨 Skills
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="25px"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25px"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" height="25px"/></a>
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="25px"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="25px"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7D71E?style=flat-square&logo=JavaScript&logoColor=white" height="25px"/></a>
+ 
+### 🧤 Collaborate
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" height="25px"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" height="25px"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" height="25px"/></a>
 </div>
-
