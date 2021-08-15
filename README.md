@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=soft&color=_#A7CC7B&section=header&text=Min Jeong&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=_A7CC7B&height=150&section=header&text=MinJeong&fontSize=70&animation=twinkling)
 
 ## Hi there! 👋🏻
   
