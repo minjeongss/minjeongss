@@ -1,6 +1,6 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=soft&color=_A7CC7B&height=150&section=header&text=MinJeong&fontSize=70&animation=twinkling)
-
+  
+![header](https://capsule-render.vercel.app/api?type=slice&color=CAE0AF&height=160&section=header&text=MinJeong👩🏻‍🌾&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=50)
 ## Hi there! 👋🏻
   
 ### 🚀 Major
@@ -19,4 +19,7 @@ Computer Science Engineering
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" height="25px"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" height="25px"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" height="25px"/></a>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=B8D695&height=160&section=footer)
+  
 </div>
