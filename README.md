@@ -14,7 +14,7 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="25px"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7D71E?style=flat-square&logo=JavaScript&logoColor=white" height="25px"/></a>
  
-### 🧤 Collaborate 🧤
+### ✨ Cowork Tools ✨
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" height="25px"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" height="25px"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" height="25px"/></a>
