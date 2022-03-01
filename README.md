@@ -13,5 +13,4 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7D71E?style=flat-square&logo=JavaScript&logoColor=white" height="26px"/></a>
   
 ### 💭 Tech Bolg
-  <a href="https://jeonge.tistory.com/">기술 블로그(만죵) ⛏️⛏️</a><br>
-  우당탕탕 개발 기록들을 작성합니다!
+  <a href="https://jeonge.tistory.com/">우당탕탕 빙글빙글 돌아가는 개발 기록지 ⛏️⛏️</a><br>
