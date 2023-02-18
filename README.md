@@ -13,3 +13,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7D71E?style=flat-square&logo=JavaScript&logoColor=white" height="22px"/>
   <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=CSharp&logoColor=white" height="22px"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" height="22px"/>
+
+## Project
+  
+|Name|Detail|Duration|Tech|
+|--|--|--|--|
+|[SosoVillage](https://github.com/JeongHyunJi/SosoVillage)|2D 인디게임|2022|C#|
+|[THEAL](https://github.com/minjeongss/InternetProgramming)|티켓 구매 웹페이지|2021|JAVA|
+|[Watfle](https://github.com/WebGroose/Watfle)|영화 리뷰 웹페이지|2020-2021|JS|
+|[고양이별](https://github.com/minjeongss/Unity-Game_making)|2D 인디게임|2020|C#|
