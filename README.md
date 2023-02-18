@@ -21,5 +21,5 @@
 |--|--|--|--|
 |[SosoVillage](https://github.com/JeongHyunJi/SosoVillage)|2D 인디게임|2022|C#, Unity|
 |[THEAL](https://github.com/minjeongss/InternetProgramming)|티켓 구매 웹페이지|2021|JAVA, Eclipse|
-|[Watfle](https://github.com/WebGroose/Watfle)|영화 리뷰 웹페이지|2020-2021|JS|
+|[Watfle](https://github.com/WebGroose/Watfle)|영화 리뷰 웹페이지|2020-2021|JS, CSS, HTML|
 |[고양이별](https://github.com/minjeongss/Unity-Game_making)|2D 인디게임|2020|C#, Unity|
