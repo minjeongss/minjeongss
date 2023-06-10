@@ -21,4 +21,4 @@
 |--|--|--|--|--|
 |[SosoVillage](https://github.com/JeongHyunJi/SosoVillage)|2D 인디게임|개발, 디자인|2022|C#, Unity|
 |[THEAL](https://github.com/minjeongss/InternetProgramming)|티켓 구매 웹페이지|프론트엔드, 백엔드|2021|JAVA, Eclipse|
-|[Watfle](https://github.com/WebGroose/Watfle)|영화 리뷰 웹페이지|프론트엔드|2020-2021|JS, CSS, HTML|
+|[🏠 Watfle-Team](https://github.com/WebGroose/Watfle) <br>[👶🏻 Watfle-MySelf ⚡](https://github.com/minjeongss/web-Watfle)|영화 리뷰 웹페이지|프론트엔드|2020-2021|JS, CSS, HTML|
