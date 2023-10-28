@@ -19,8 +19,8 @@
   
 |Name|Detail|Position|Duration|Tech|
 |--|--|--|--|--|
-|[귀농귀농](https://github.com/GwinongGwinong/frontend)|귀농 플랫폼 서비스|개발|2023|React|
-|[오늘뭐하니](https://github.com/UMC-LetsDo/what-you-do-today-back)|놀거리 플랫폼 서비스|개발|2023|Node.js(ES6)|
+|[귀농귀농](https://github.com/GwinongGwinong/frontend)|귀농 플랫폼 서비스|개발(프론트엔드)|2023|React|
+|[오늘뭐하니](https://github.com/UMC-LetsDo/what-you-do-today-back)|놀거리 플랫폼 서비스|개발(백엔드)|2023|Node.js(ES6)|
 |[SosoVillage](https://github.com/JeongHyunJi/SosoVillage)|2D 인디게임|개발, 디자인|2022|C#, Unity|
 |[DataVisualization](https://github.com/minjeongss/Data-Visualization)|데이터 분석|개발|2021|Python, Tableau|
-|[🏠 Watfle-Team](https://github.com/WebGroose/Watfle) <br>[👶🏻 Watfle-MySelf ⚡](https://github.com/minjeongss/web-Watfle)|영화 리뷰 웹페이지|프론트엔드|2020-2021|JS, CSS, HTML|
+|[🏠 Watfle-Team](https://github.com/WebGroose/Watfle) <br>[👶🏻 Watfle-MySelf ⚡](https://github.com/minjeongss/web-Watfle)|영화 리뷰 웹페이지|개발(프론트엔드)|2020-2021|JS, CSS, HTML|
