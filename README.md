@@ -19,6 +19,8 @@
   
 |Name|Detail|Position|Duration|Tech|
 |--|--|--|--|--|
+|[나날이](https://github.com/Nanali-cody/frontend)|날씨별 옷추천 플랫폼 서비스|개발(프론트엔드)|2023|React|
+|[Connect](https://github.com/Connect-Organization/2023-ReactStudy-Jeong)|리액트 강의|강의 보조 및 피드백|2023|React|
 |[귀농귀농](https://github.com/GwinongGwinong/frontend)|귀농 플랫폼 서비스|개발(프론트엔드)|2023|React|
 |[오늘뭐하니](https://github.com/UMC-LetsDo/what-you-do-today-back)|놀거리 플랫폼 서비스|개발(백엔드)|2023|Node.js(ES6)|
 |[SosoVillage](https://github.com/JeongHyunJi/SosoVillage)|2D 인디게임|개발, 디자인|2022|C#, Unity|
