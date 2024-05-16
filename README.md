@@ -1,6 +1,6 @@
 ## 개발자, 김민정입니다 🙂
 ### 🚀 Tech Stack
-> **집중**하고 있는 분야: **Web Frontend**
+> 집중하고 있는 분야: **Web Frontend**
 <div float="left" >
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="25px"/>
@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="25px"/>
+  ,
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" height="25px"/>
   ,
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/JAVA-6897BB?style=flat-square&logo=JAVA&logoColor=white" height="25px"/>
