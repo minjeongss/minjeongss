@@ -1,11 +1,8 @@
-<div align="center">
-  
-## Hello World 🙂
-### I'm MinJeong Kim!
 
-  <b>🔥 Major:</b> Computer Science Engineering <br>
-  <b>💭 Tech Bolg:</b> <a href="https://jeonge.tistory.com/">https://jeonge.tistory.com ⛏️⛏️</a><br>
-## Tech Stack
+  
+## 개발자, 김민정입니다 🙂
+### Tech Stack
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/JAVA-6897BB?style=flat-square&logo=JAVA&logoColor=white" height="25px"/>
@@ -14,11 +11,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7D71E?style=flat-square&logo=JavaScript&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=CSharp&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" height="25px"/>
+</div>
 
-## Project
+### Project
   
 |Name|Detail|Position|Duration|Tech|
 |--|--|--|--|--|
+|[유진로봇 인턴사원](https://yujinrobot.com/)|청소로봇 개발 테스트 및 UI scenario 검증|개발(테스트)|2024|Linux|
+|[SPARO 학부연구생](https://sites.google.com/view/sparo)|다층 환경 주행을 위한 모바일 매니퓰레이터 및 내비게이션 기술|개발(제어)|2023-2024|ROS, Python|
 |[나날이](https://github.com/Nanali-cody/frontend)|날씨별 옷추천 플랫폼 서비스|개발(프론트엔드)|2023|React|
 |[Connect](https://github.com/Connect-Organization/2023-ReactStudy-Jeong)|리액트 강의|강의 보조 및 피드백|2023|React|
 |[귀농귀농](https://github.com/GwinongGwinong/frontend)|귀농 플랫폼 서비스|개발(프론트엔드)|2023|React|
