@@ -4,7 +4,7 @@
 - 다양한 분야를 모험하는 것을 즐기는 개발자입니다.
 
 ### 🚀 Tech Stack
-> 집중하고 있는 분야: **Web Frontend**
+- 집중하고 있는 분야: **Web Frontend**
 <div float="left" >
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" height="25px"/>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" height="25px"/>
 </div>
 
-> 사용한 경험이 있는 분야: Robotics, Data Analytics, Web Backend, Game
+- 경험이 있는 분야: Robotics, Data Analytics, Web Backend, Game
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" height="25px"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="25px"/>
