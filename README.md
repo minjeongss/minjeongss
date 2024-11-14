@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=minjeongss&theme=meta-light&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
+      <img src="https://streak-stats.demolab.com?user=minjeongss&count_private=true&theme=meta-light&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
     </td>
     <td width="50%">
       <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=minjeongss&layout=compact&hide_border=true&langs_count=6&hide=html,css,scss" align="center"/>
