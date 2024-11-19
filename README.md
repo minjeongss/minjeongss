@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=859F3D&center=true&vCenter=true&width=435&lines=Hello%2C+World!+*%5E-%5E*" alt="Typing SVG" />
-  <div>모두가 편리하게 이용할 수 있는 기술로 세상을 조금 더 나은 곳으로 만들고 싶은 개발자, 김민정 입니다. </div>
-  
+  <h2>안녕하세요 ☺️</h2>
+  <div>모두가 편리하게 이용할 수 있는 기술로 세상을 조금 더 나은 곳으로 만들고 싶은 개발자, <strong><u>김민정</u></strong> 입니다. </div>
+  <br />
   <table>
   <tr>
     <td width="50%">
