@@ -1,4 +1,5 @@
-[![Tech Blog Badge](http://img.shields.io/badge/기술블로그-Visit!-black?style=social&logo=readme&logoColor=green&link=https://jeonge.tistory.com)](https://jeonge.tistory.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/기술블로그-Visit!-black?style=social&logo=readme&logoColor=green&link=https://jeonge.tistory.com)](https://jeonge.tistory.com)
+<br />
 [![Gmail Badge](https://img.shields.io/badge/메일-Contact!-black?style=social&logo=Gmail&logoColor=red&link=mailto:dotoriido@gmail.com)](mailto:dotoriido@gmail.com)
 
 ## 김민정
