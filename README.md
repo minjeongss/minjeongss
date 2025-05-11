@@ -1,19 +1,7 @@
-<div align="center">
-  <h2>안녕하세요 ☺️</h2>
-  <div>모두가 편리하게 이용할 수 있는 기술로 세상을 조금 더 나은 곳으로 만들고 싶은 개발자, <strong><u>김민정</u></strong> 입니다. </div>
-  <br />
-  <table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-          <h3><a href="https://jeonge.tistory.com/">🛸 기술 블로그</a></h3>
-          <div>문제 해결 시행착오의 과정과 회고를 작성합니다. </div>
-        </div>
-     </td>
-      <td width="50%">
-        <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=minjeongss&layout=compact&hide_border=true&langs_count=6&hide=html,css,scss" align="center"/>
-      </td>
-    </tr>
-  </table>  
-</div>
+[![Tech Blog Badge](http://img.shields.io/badge/기술블로그-Visit!-black?style=social&logo=readme&logoColor=green&link=https://jeonge.tistory.com)](https://jeonge.tistory.com) 
+[![Gmail Badge](https://img.shields.io/badge/메일-Contact!-black?style=social&logo=Gmail&logoColor=red&link=mailto:dotoriido@gmail.com)](mailto:dotoriido@gmail.com)
 
+## 김민정
+- 모두가 편리하게 이용할 수 있는 기술로 세상을 조금 더 나은 곳으로 만드는 꿈이 있습니다. ✨
+- 사용자 경험과 행동을 기반으로 최고의 UX를 설계하며 디지털 혁신을 제공합니다.
+- 기록의 힘을 믿기에, 트러블슈팅 해결 과정과 회고를 중심으로 블로그를 운영합니다.
